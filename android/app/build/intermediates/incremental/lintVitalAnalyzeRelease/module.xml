@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/home/hp/Desktop/Assinement/Litoproject/android/app"
+    name=":app"
+    type="APP"
+    maven="Lito1:app:"
+    gradle="7.0.4"
+    buildFolder="build"
+    bootClassPath="/home/hp/Android/Sdk/platforms/android-31/android.jar:/home/hp/Android/Sdk/build-tools/30.0.2/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-31"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
